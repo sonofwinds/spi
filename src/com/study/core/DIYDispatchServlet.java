@@ -18,7 +18,6 @@ public class DIYDispatchServlet extends HttpServlet {
      */
     public DIYDispatchServlet() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 	/**

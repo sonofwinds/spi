@@ -17,6 +17,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>DIYDispatchServlet</servlet-name>
-    <url-pattern>/DIYDispatchServlet</url-pattern>
+    <url-pattern>/</url-pattern>
   </servlet-mapping>
 </web-app>
