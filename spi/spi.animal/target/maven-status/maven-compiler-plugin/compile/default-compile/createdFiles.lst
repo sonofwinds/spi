@@ -1,0 +1,3 @@
+com\spi\contract\impl\Cat.class
+com\spi\contract\IAnimal.class
+com\spi\contract\impl\Dog.class
